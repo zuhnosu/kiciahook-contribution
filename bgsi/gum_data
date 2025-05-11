@@ -1,0 +1,20 @@
+return{
+["Stretchy Gum"] = {Storage = 45, Area = "The Overworld", Image = "rbxassetid://108550198719106", Cost = 25};
+["Mega Gum"] = {Storage = 100000, Area = "Twilight", Image = "rbxassetid://118380171553152", Cost = 1500000};
+["Epic Gum"] = {Storage = 550, Area = "The Overworld", Image = "rbxassetid://83808857441064", Cost = 1500};
+["Omega Gum"] = {Storage = 1750, Area = "The Overworld", Image = "rbxassetid://93588349037042", Cost = 12000};
+["Ultra Gum"] = {Storage = 950, Area = "The Overworld", Image = "rbxassetid://94321969730184", Cost = 5000};
+["XL Gum"] = {Storage = 65500, Area = "Outer Space", Image = "rbxassetid://86107881838160", Cost = 650000};
+["Infinity Gum"] = {Storage = 10000000000, Area = "The Overworld", Image = "rbxassetid://139014838916703", Cost = 9e+99};
+["Chewy Gum"] = {Storage = 125, Area = "The Overworld", Image = "rbxassetid://82809919925394", Cost = 250};
+["Experiment #52"] = {Storage = 1500000, Area = "Zen", Image = "rbxassetid://130972694579204", Cost = 1000000000};
+["VIP Gum"] = {Storage = 550, Area = "The Overworld", Image = "rbxassetid://125218223091015", Cost = 9e+99};
+["Unreal Gum"] = {Storage = 4500, Area = "Outer Space", Image = "rbxassetid://128147517686828", Cost = 45000};
+["Basic Gum"] = {Storage = 10, Area = "The Overworld", Image = "rbxassetid://134179299358863", Cost = 0};
+["Quantum Gum"] = {Storage = 225000, Area = "Twilight", Image = "rbxassetid://104358442299675", Cost = 5000000};
+["Robogum"] = {Storage = 20000000, Area = "Robot Factory", Image = "rbxassetid://115945348566769", Cost = 5000000000};
+["Alien Gum"] = {Storage = 600000, Area = "Twilight", Image = "rbxassetid://136292734796406", Cost = 35000000};
+["Radioactive Gum"] = {Storage = 900000, Area = "Zen", Image = "rbxassetid://95717273086527", Cost = 150000000};
+["Void Gum"] = {Storage = 10000000, Area = "Zen", Image = "rbxassetid://110803122073291", Cost = 95000000000};
+["Cosmic Gum"] = {Storage = 12500, Area = "Outer Space", Image = "rbxassetid://88359775641835", Cost = 125000};
+}
